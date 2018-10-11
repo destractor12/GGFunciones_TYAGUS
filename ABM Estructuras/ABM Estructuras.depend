@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1525308395 source:e:\facu\laboratorio 1\clase\abm estructuras\funciones.c
+	<stdio.h>
+	"Funciones.h"
+	"Usuarios.h"
+	<string.h>
+
+1525302544 e:\facu\laboratorio 1\clase\abm estructuras\funciones.h
+	"Usuarios.h"
+	"Series.h"
+
+1525308341 e:\facu\laboratorio 1\clase\abm estructuras\usuarios.h
+	"Series.h"
+
+1525301889 e:\facu\laboratorio 1\clase\abm estructuras\series.h
+
+1524963336 source:e:\facu\laboratorio 1\clase\abm estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Usuarios.h"
+
+1525308299 source:e:\facu\laboratorio 1\clase\abm estructuras\usuarios.c
+	<stdio.h>
+	"Usuarios.h"
+	"Funciones.h"
+	<string.h>
+
+1525301871 source:e:\facu\laboratorio 1\clase\abm estructuras\series.c
+	<stdlib.h>
+	<stdio.h>
+	"series.h"
+	<string.h>
+
